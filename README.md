@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-MyMemory (Translated) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://mymemory.translated.net/
+MyMemory (Translated) provides a large collaborative translation memory service, offering both machine translation and human-contributed translations. It powers multilingual websites, applications, and content localization by allowing developers to access its Translation API for language detection, translation, and glossary management. The platform hosts the world’s largest public translation archive, enabling seamless integration of translation capabilities into software solutions.
+
+**Areas:** Company · Translation · API · Localization · Machine-Translation
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://mymemory.translated.net/)
+- [Documentation](https://mymemory.translated.net/doc/)
+- [API reference](https://mymemory.translated.net/doc/spec.php)
+- [Terms of service](https://mymemory.translated.net/terms-and-conditions)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/mymemory/](https://apis.io/providers/mymemory/).
